@@ -1,0 +1,30 @@
+body {
+    background-color: lightgrey;
+}
+ul {
+    list-style: none;
+}
+.navbar-brand {
+    color: black;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    background-color: gold;
+    padding: 5px;
+}
+#listSection {
+    background-color: white;
+    margin: 0 auto;
+    width: 50%;
+}
+.bold {
+    font-weight: bold;
+}
+.poster {
+    height: auto;
+    width: 60%;
+}
+ul li p {
+    font-weight: bold;
+    font-size: 120%;
+}
